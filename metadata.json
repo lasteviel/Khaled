@@ -1,0 +1,7 @@
+{
+  "name": "مزرعتي (My Farm)",
+  "description": "تطبيق بسيط لإدارة المزارع الصغيرة (الأغنام)، تتبع الصحة، المالية، والتغذية.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
